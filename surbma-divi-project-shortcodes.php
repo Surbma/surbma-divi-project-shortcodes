@@ -5,7 +5,7 @@ Plugin Name: Surbma - Divi Project Shortcodes
 Plugin URI: http://surbma.com/wordpress-plugins/
 Description: Shortcodes to display Divi's Project elements, like category and tag list.
 
-Version: 1.1.0
+Version: 1.1.1
 
 Author: Surbma
 Author URI: http://surbma.com/
@@ -17,13 +17,11 @@ Domain Path: /languages/
 */
 
 // Prevent direct access to the plugin
-if ( !defined( 'ABSPATH' ) ) {
-	die( 'Good try! :)' );
-}
+if ( !defined( 'ABSPATH' ) ) exit( 'Good try! :)' );
 
 // Localization
 function surbma_divi_project_shortcodes_init() {
-	load_plugin_textdomain( 'surbma-divi-project-shortcodes', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+	load_plugin_textdomain( 'surbma-divi-project-shortcodes', false, plugin_basename( dirname( __FILE__ ) ) . '/languages' );
 }
 add_action( 'plugins_loaded', 'surbma_divi_project_shortcodes_init' );
 
