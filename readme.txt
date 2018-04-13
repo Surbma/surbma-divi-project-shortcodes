@@ -3,8 +3,8 @@ Contributors: Surbma
 Donate link: http://surbma.com/
 Tags: divi, divi theme, elegant themes, elegantthemes, shortcode, project category, project tag, project
 Requires at least: 4.0
-Tested up to: 4.6
-Stable tag: 1.1.1
+Tested up to: 4.9
+Stable tag: 1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -91,6 +91,11 @@ Because you have to enable this function. By default, Wordpress does not allow y
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.2 =
+
+- Simpler versioning.
+- Compatibility check with WordPress 4.9 version.
 
 = 1.1.1 =
 
