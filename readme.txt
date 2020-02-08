@@ -1,10 +1,10 @@
-=== Surbma - Divi Project Shortcodes ===
+=== Surbma | Divi Project Shortcodes ===
 Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: divi, divi theme, elegant themes, elegantthemes, shortcode, project category, project tag, project
 Requires at least: 5.1
 Tested up to: 5.3
-Stable tag: 2.0
+Stable tag: 2.1
 Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -61,7 +61,7 @@ You have to buy the Divi Theme to use this plugin:
 
 **My childthemes for Divi theme:**
 
-- [Divi Extra](https://github.com/Surbma/Divi-Extra)
+- [Divi Plus](https://github.com/Surbma/Divi-Plus)
 
 **Do you want to contribute or help improving this plugin?**
 
@@ -94,6 +94,12 @@ Because you have to enable this function. By default, Wordpress does not allow y
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.1 =
+
+Release date: 2020-01-08
+
+- TWEAK - Minor changes in description.
 
 = 2.0 =
 

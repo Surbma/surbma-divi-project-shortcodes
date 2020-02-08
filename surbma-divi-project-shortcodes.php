@@ -5,10 +5,10 @@ Plugin Name: Surbma | Divi Project Shortcodes
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Shortcodes to display Divi's Project elements, like category and tag list.
 
-Version: 2.0
+Version: 2.1
 
 Author: Surbma
-Author URI: http://surbma.com/
+Author URI: https://surbma.com/
 
 License: GPLv2
 
